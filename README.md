@@ -1,4 +1,4 @@
-# Hi!, I’m Luis Romero 👨‍💻
+# Hi!, I’m Josef Ludwig 👨‍💻
 
 ## .NET Software Engineer 
 
@@ -10,6 +10,8 @@ As an experienced developer, it's a pleasure to be part of this new era enjoying
 ## Tools And Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/jquery-F7DF1E?style=flat-square&logo=jquery&logoColor=black)
 
 I consider knowledge an invaluable treasure, and the mind, the medium that transforms the impossible into reality.
 
