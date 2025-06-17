@@ -10,7 +10,7 @@ As an experienced developer, it's a pleasure to be part of this new era enjoying
 ## Tools And Technologies
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=c&logoColor=black)
+![C language](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=c&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
